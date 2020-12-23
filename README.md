@@ -1,4 +1,4 @@
-# TeamLrrRepo
+# Conway's Game of Life
 
 An implementation of Conway's Game of Life written in C++ using the following C libraries:
 1. freeglut 3.0.0-1.mp for MinGW (64 bit): An open source alternative to OpenGL's Utility Toolkit (GLUT)
